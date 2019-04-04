@@ -1,0 +1,16 @@
+PODS:
+  - ThirdKit (0.1.0)
+
+DEPENDENCIES:
+  - ThirdKit (from `../`)
+
+EXTERNAL SOURCES:
+  ThirdKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ThirdKit: 2943adb9ff79b4cab94e1a1cd5e1ab78675ce51f
+
+PODFILE CHECKSUM: 25203444234ea756a01c2f66df1dfc3bb587903d
+
+COCOAPODS: 1.6.1

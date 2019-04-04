@@ -1,0 +1,6 @@
+framework module ThirdKit {
+  umbrella header "ThirdKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+这是一个完全没有任何价值的库文件，仅供测试使用。
                        DESC
 
   s.homepage         = 'https://github.com/iOSMaL/ThirdKit'
