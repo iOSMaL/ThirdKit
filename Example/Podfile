@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ThirdKit_Example' do
+  pod 'ThirdKit', :path => '../'
+
+  target 'ThirdKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
